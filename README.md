@@ -22,4 +22,12 @@ Aplicar la lógica de programación vista en clases para el manejo de calificaci
 Las imágenes del formulario en ejecución se encuentran en la carpeta `/imagenes`.
 
 # Autor
-- Nombre: Melany Vasquez 5to D2
+ -Nivel: Secundaria Técnico Profesional
+
+-Módulo Formativo: Desarrollo de aplicaciones
+
+-Curso / Sección:5to-D2
+
+-Año escolar:5to de secundaria
+
+-Autor: Melany Ginnely Vasquez Palmero
